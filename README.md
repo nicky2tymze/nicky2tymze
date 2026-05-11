@@ -5,11 +5,11 @@ shipping production tooling and original research on agentic systems
 using Claude Code and the modern AI-tooling stack as the primary
 development mode.
 
-## Research — 7 papers, March 2026
+## Research — 9 papers + companion piece, March-April 2026
 
-A 7-paper series on the behavioral mechanics of LLM agents at scale.
-Each repository carries the paper plus the experimental code that
-produced its data.
+A 9-paper series on the behavioral mechanics of LLM agents at scale,
+plus a companion summary piece. Each repository carries the paper
+plus the experimental code that produced its data.
 
 | # | Paper | Repo |
 |---|---|---|
@@ -20,6 +20,9 @@ produced its data.
 | 5 | Metaphor as Cognitive Architecture — relational compression anchors agent behavior | [`metaphor-as-cognitive-architecture`](https://github.com/nicky2tymze/metaphor-as-cognitive-architecture) |
 | 6 | The Board Spectrometer — channel isolation reveals loyalty is culture-agnostic | [`the-board-spectrometer`](https://github.com/nicky2tymze/the-board-spectrometer) |
 | 7 | Structure Is The Mechanism — relational geometry drives agent behavior, everything else is surface | [`structure-is-the-mechanism`](https://github.com/nicky2tymze/structure-is-the-mechanism) |
+| 8 | Structure Is Universal? — cross-model validation across Claude, GPT, and Gemini; 54/54 perfect fidelity | [`structure-is-universal`](https://github.com/nicky2tymze/structure-is-universal) |
+| 9 | Personality Predicts Accuracy — structural self-awareness outperforms prompt engineering across three LLM architectures; 36/40 vs 24/40 | [`personality-predicts-accuracy`](https://github.com/nicky2tymze/personality-predicts-accuracy) |
+| 9.6 | The Shape of an AI's Mind — companion summary of Papers 1-7, told warmly with the data behind it | [`shape-of-an-ais-mind`](https://github.com/nicky2tymze/shape-of-an-ais-mind) |
 
 ## Tools — a small development suite
 
