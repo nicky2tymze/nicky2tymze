@@ -32,7 +32,15 @@ successor.
 |---|---|---|
 | `standup-tool` | shipped v0.1 — 689 tests | [`standup-tool`](https://github.com/nicky2tymze/standup-tool) |
 | `po-tool` | shipped v0.2 — 22 stories, 1911 tests, ~12h dogfooded build | [`po-tool`](https://github.com/nicky2tymze/po-tool) |
-| `sm-tool` | in active build — closes the dev-suite loop | [`sm-tool`](https://github.com/nicky2tymze/sm-tool) |
+| `sm-tool` | shipped v0.3.0 — 23 stories, 1680 tests, 7-of-7 Ls first-pass clean | [`sm-tool`](https://github.com/nicky2tymze/sm-tool) |
+
+### Live build recordings
+
+The full sm-tool Iter 1 build was recorded live on 2026-05-10:
+
+- **Sprint 1 (morning, 2h36, unedited):** https://youtu.be/Pu2uwK4QOVs
+- **Sprint 2 + Iter 1 close (afternoon, 2h20, unedited):** https://youtu.be/xnnQg5Gw1lw
+- **Edited 3-minute walkthrough:** https://youtu.be/_9BOOEKaCIs
 
 ## Approach
 
