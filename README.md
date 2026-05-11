@@ -35,7 +35,7 @@ successor.
 |---|---|---|
 | `standup-tool` | shipped v0.1 — 689 tests | [`standup-tool`](https://github.com/nicky2tymze/standup-tool) |
 | `po-tool` | shipped v0.2 — 22 stories, 1911 tests, ~12h dogfooded build | [`po-tool`](https://github.com/nicky2tymze/po-tool) |
-| `sm-tool` | shipped v0.3.0 — 23 stories, 1680 tests, 7-of-7 Ls first-pass clean | [`sm-tool`](https://github.com/nicky2tymze/sm-tool) |
+| `sm-tool` | shipped v0.4.0 — Iter 1 (23 stories, v0.3.0) + Iter 2 (16 stories, real Anthropic SDK live end-to-end). 2428 tests, all 11 Iter-1 retro items closed, Cardiff smoke green against the real API. | [`sm-tool`](https://github.com/nicky2tymze/sm-tool) |
 
 ### Live build recordings
 
