@@ -35,7 +35,7 @@ successor.
 |---|---|---|
 | `standup-tool` | shipped v0.1 — 689 tests | [`standup-tool`](https://github.com/nicky2tymze/standup-tool) |
 | `po-tool` | shipped v0.2 — 22 stories, 1911 tests, ~12h dogfooded build | [`po-tool`](https://github.com/nicky2tymze/po-tool) |
-| `sm-tool` | shipped v0.4.1 — Iter 1 + Iter 2 + inaugural MiniSprint 2.1 (role-spec/contract drift catcher). 2438 tests, real Anthropic SDK live end-to-end, Cardiff smoke green. | [`sm-tool`](https://github.com/nicky2tymze/sm-tool) |
+| `sm-tool` | shipped v0.4.2 — Iter 1 + Iter 2 + MiniSprint 2.1 + iter3-autonomy (codebase context-passing + file materialization) + iter4-multisprint (multi-sprint per iteration). 2882 tests, real Anthropic SDK live, Cardiff smoke green. Six culture patterns codified along the way. | [`sm-tool`](https://github.com/nicky2tymze/sm-tool) |
 
 ### Live build recordings
 
